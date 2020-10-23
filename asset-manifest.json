@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CovidNewsApp/static/css/main.1cf4861e.chunk.css",
+    "main.js": "/CovidNewsApp/static/js/main.d4d1541d.chunk.js",
+    "main.js.map": "/CovidNewsApp/static/js/main.d4d1541d.chunk.js.map",
+    "runtime-main.js": "/CovidNewsApp/static/js/runtime-main.3d7d3398.js",
+    "runtime-main.js.map": "/CovidNewsApp/static/js/runtime-main.3d7d3398.js.map",
+    "static/js/2.0dd5154d.chunk.js": "/CovidNewsApp/static/js/2.0dd5154d.chunk.js",
+    "static/js/2.0dd5154d.chunk.js.map": "/CovidNewsApp/static/js/2.0dd5154d.chunk.js.map",
+    "index.html": "/CovidNewsApp/index.html",
+    "precache-manifest.c5eadc29c934b32d014578c3dc5cf019.js": "/CovidNewsApp/precache-manifest.c5eadc29c934b32d014578c3dc5cf019.js",
+    "service-worker.js": "/CovidNewsApp/service-worker.js",
+    "static/css/main.1cf4861e.chunk.css.map": "/CovidNewsApp/static/css/main.1cf4861e.chunk.css.map",
+    "static/js/2.0dd5154d.chunk.js.LICENSE.txt": "/CovidNewsApp/static/js/2.0dd5154d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d7d3398.js",
+    "static/js/2.0dd5154d.chunk.js",
+    "static/css/main.1cf4861e.chunk.css",
+    "static/js/main.d4d1541d.chunk.js"
+  ]
+}
