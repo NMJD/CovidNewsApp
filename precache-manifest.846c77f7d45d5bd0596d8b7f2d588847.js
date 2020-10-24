@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf371f562679f4be86a67bd3e6d851dc",
+    "revision": "8f9ccfc5836241de38c2a70bdd1d056e",
     "url": "/CovidNewsApp/index.html"
   },
   {
-    "revision": "c883e5cfa0d5729020e9",
+    "revision": "0b94f13a8f645d02f7d4",
     "url": "/CovidNewsApp/static/css/main.1cf4861e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CovidNewsApp/static/js/2.0dd5154d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c883e5cfa0d5729020e9",
-    "url": "/CovidNewsApp/static/js/main.d4d1541d.chunk.js"
+    "revision": "0b94f13a8f645d02f7d4",
+    "url": "/CovidNewsApp/static/js/main.8e1bc4cf.chunk.js"
   },
   {
     "revision": "ca6e69ddfe27c9984525",
