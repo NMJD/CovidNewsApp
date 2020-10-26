@@ -45,7 +45,7 @@ class News extends React.Component {
 
 
     componentDidMount() {
-        fetch("https://api.nytimes.com/svc/search/v2/articlesearch.json?q=Coronavirus&page=0&api-key=Z2j0pvwTVSWTK0QN13zZUlrLFffCbtt7")
+        fetch("https://api.nytimes.com/svc/search/v2/articlesearch.json?q=Coronavirus&page=0&api-key=YourAPIKey")
           .then(res => res.json())
           .then(
             (result) => {
